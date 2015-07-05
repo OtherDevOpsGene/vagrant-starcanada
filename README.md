@@ -1,2 +1,4 @@
 # vagrant-starcanada
-Code supporting "Disposable Test Environments" from Star Canada 2015
+Code supporting my presentation on "Creating Disposable Test Environments with Vagrant and Puppet" from Star Canada 2015.
+
+
